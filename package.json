@@ -1,0 +1,20 @@
+{
+  "name": "blazedemo",
+  "version": "1.0.0",
+  "description": "Testing the Autoamtion Practice Site using Protractor",
+  "main": "configuration.js",
+  "dependencies": {
+    "protractor-screenshoter-plugin": "^0.10.3"
+  },
+  "devDependencies": {
+    "path": "^0.12.7",
+    "protractor": "7.0.0",
+    "auto-reload-json": "^1.0.2",
+    "jasmine-spec-reporter": "^7.0.0"
+  },
+  "scripts": {
+    "test": "protractor configuration.js"
+  },
+  "author": "Alagappan Annamalai",
+  "license": "ISC"
+}

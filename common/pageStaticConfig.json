@@ -1,0 +1,19 @@
+{
+	"indexPage":
+	{
+	"pageURL":"https://blazedemo.com/",
+	"pageTitle":"BlazeDemo",
+	"departureCity":"Boston",
+	"destinationCity":"New York",
+	"flightNumber":"UA234",
+	"name":"Alagappan",
+	"address":"14, street",
+	"city":"Bangalore",
+	"state":"KA",
+	"zipcode":"560016",
+	"creditCardNumber":"123412341234",
+	"month":"10",
+	"year":"2021",
+	"cardName":"Alagappan Annamalai"
+	}
+}
