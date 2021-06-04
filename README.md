@@ -1,4 +1,4 @@
-# automationPractice
+# blazeDemo Automation Practice Scenario
 Set up on Windows Machine to make the Protractor script to run
 1.	Download Node and NPM from the website  
 https://nodejs.org/en/download/
